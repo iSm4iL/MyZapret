@@ -1,0 +1,94 @@
+﻿{
+    "Source":  "MyZapret/data/original.json; original saved service image, no strategy translation",
+    "Created":  "2026-11-04T17:21:40",
+    "Files":  [
+                  {
+                      "Hash":  "4BEBDA7ADFD59AECAA59A057C9E761DF9AA441B46A61DD85157E680F3187F033",
+                      "Path":  "command.txt"
+                  },
+                  {
+                      "Hash":  "2FE18B3BD20807D36704D0B072092EE49AE84EDCA907A4420AB9A0F0F28FDDCF",
+                      "Path":  "bin\\ACTIVE_DISCORD_UDP.bin"
+                  },
+                  {
+                      "Hash":  "E065870CB0D13152E6132807BBF42218A9E7CD8D96F5602B61674CC540F3A56E",
+                      "Path":  "bin\\ACTIVE_GAME_UDP.bin"
+                  },
+                  {
+                      "Hash":  "103104A52E5293CE418944725DF19E2BF81AD9269B9A120D71D39028E821499B",
+                      "Path":  "bin\\cygwin1.dll"
+                  },
+                  {
+                      "Hash":  "F4589C57749F956BB30538197A521D7005F8B0A8723B4707E72405E51DDAC50A",
+                      "Path":  "bin\\quic_initial_www_google_com.bin"
+                  },
+                  {
+                      "Hash":  "B7C2497496039C541F7337AC8536813F0A1CF52363AB2FAA5213B7816D458813",
+                      "Path":  "bin\\stun2.bin"
+                  },
+                  {
+                      "Hash":  "AD552922ACFE029521DA884EA29F4BB28BB6BDCEE9B1A70B46ADBFD266C11D4D",
+                      "Path":  "bin\\tls_clienthello_sochi_park.bin"
+                  },
+                  {
+                      "Hash":  "936C2BEE4CFB80AA3C426B2DCBCC834B3FBCD1ADB17172959DC569C73A14275C",
+                      "Path":  "bin\\tls_clienthello_www_google_com.bin"
+                  },
+                  {
+                      "Hash":  "E6DD8D724EECC6A7340BF64E2EBEC81C60BC4E078C6F702B4B6BA9BF184180AD",
+                      "Path":  "bin\\tls_clienthello_www_sferum_ru.bin"
+                  },
+                  {
+                      "Hash":  "C1E060EE19444A259B2162F8AF0F3FE8C4428A1C6F694DCE20DE194AC8D7D9A2",
+                      "Path":  "bin\\WinDivert.dll"
+                  },
+                  {
+                      "Hash":  "8DA085332782708D8767BCACE5327A6EC7283C17CFB85E40B03CD2323A90DDC2",
+                      "Path":  "bin\\WinDivert64.sys"
+                  },
+                  {
+                      "Hash":  "AFFB4F69D2EA302A7ABCCD5325D81826E140DDAE014F1E070BC4A6C0DD555188",
+                      "Path":  "bin\\winws.exe"
+                  },
+                  {
+                      "Hash":  "19123A22BF1108815C07BDA3CDA8DF282B30BD63E4939949928969C0FD195873",
+                      "Path":  "lists\\ipset-all.txt"
+                  },
+                  {
+                      "Hash":  "AB9861470E73BA1DE99341B25BBDCD22777BA6930139DF6A4691A23C29EF4B40",
+                      "Path":  "lists\\ipset-exclude-user.txt"
+                  },
+                  {
+                      "Hash":  "96C03954012765CE4AB03B9C30F29AB1CA1B698C6752224D03828E6D182EB0FC",
+                      "Path":  "lists\\ipset-exclude.txt"
+                  },
+                  {
+                      "Hash":  "D0407C7B2B25A1B9D2D5D04E0EB266380C7CC11C8B51AB6444700CE126B259C7",
+                      "Path":  "lists\\list-exclude-user.txt"
+                  },
+                  {
+                      "Hash":  "E2DE8403E1D2BD8EBD9DE6B2CBFAAB488D710681CBDCDE2B219E71BC4490A56D",
+                      "Path":  "lists\\list-exclude.txt"
+                  },
+                  {
+                      "Hash":  "D0407C7B2B25A1B9D2D5D04E0EB266380C7CC11C8B51AB6444700CE126B259C7",
+                      "Path":  "lists\\list-general-user.txt"
+                  },
+                  {
+                      "Hash":  "9FF3AE9E4BF0EDBCF8FECB1BBA7AAC951AACE2036CDB732EC3EF65DFC6DB443B",
+                      "Path":  "lists\\list-general.txt"
+                  },
+                  {
+                      "Hash":  "4104B8F5119F76A3642E3176987BBCF817D98DAA4899A7ECF9EE2C254958E33B",
+                      "Path":  "lists\\list-google.txt"
+                  },
+                  {
+                      "Path":  "discord-stock.txt",
+                      "Hash":  "D77B4BF2663647E10AE89FED679BCAFB1063930613692D3A09906180CB430D99"
+                  },
+                  {
+                      "Path":  "store\\spotify-hosts.txt",
+                      "Hash":  "E7E9F16BAD10BA74E2FF996B5193B8C26C282E4CF3E50CD9F0EF38900AECEFB7"
+                  }
+              ]
+}

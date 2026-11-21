@@ -1,0 +1,10 @@
+﻿{
+    "Title":  "Double fake + split",
+    "QuicRepeats":  11,
+    "Tls":  [
+                "--lua-desync fake:blob=fake_default_tls:tcp_seq=-10000:repeats=6:tls_mod=rnd,dupsid,sni=www.google.com",
+                "--lua-desync fake:blob=fake_default_tls:tcp_ts=-1000:repeats=6:tls_mod=rnd,dupsid,sni=www.microsoft.com",
+                "--lua-desync multisplit:pos=1,midsld"
+            ],
+    "Origin":  "GANWO double-fake idea; our Lua variant"
+}

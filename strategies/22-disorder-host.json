@@ -1,0 +1,8 @@
+{
+  "Title": "22-disorder-host",
+  "Tls": [
+    "--lua-desync multidisorder:pos=host+1,midsld"
+  ],
+  "Origin": "Targeted YouTube TLS candidates; unverified until live probe",
+  "QuicRepeats": 8
+}

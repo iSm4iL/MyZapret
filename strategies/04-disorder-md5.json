@@ -1,0 +1,9 @@
+﻿{
+    "Title":  "Fake MD5 + disorder",
+    "QuicRepeats":  6,
+    "Tls":  [
+                "--lua-desync fake:blob=fake_default_tls:tcp_md5:repeats=6:tls_mod=rnd,dupsid,sni=www.google.com",
+                "--lua-desync multidisorder:pos=1,midsld"
+            ],
+    "Origin":  "Our original zapret2"
+}

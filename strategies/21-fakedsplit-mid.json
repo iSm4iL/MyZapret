@@ -1,0 +1,8 @@
+{
+  "Title": "21-fakedsplit-mid",
+  "Tls": [
+    "--lua-desync fakedsplit:pos=midsld:tcp_seq=-10000"
+  ],
+  "Origin": "Targeted YouTube TLS candidates; unverified until live probe",
+  "QuicRepeats": 8
+}

@@ -1,0 +1,8 @@
+{
+  "SNI": "www.onetrust.com",
+  "Bytes": 361,
+  "Curve": "X25519:P-256",
+  "Source": "Locally generated TLS ClientHello on 127.0.0.1; no connection to external host",
+  "Node": "v24.20.0",
+  "SHA256": "019B336B420F94AB3C83F32BDBD9B169FC0017AD53005F2C42582C333ED2FBD3"
+}

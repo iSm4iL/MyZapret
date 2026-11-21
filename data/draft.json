@@ -1,0 +1,11 @@
+{
+    "Name":  "Мой zapret2",
+    "Engine":  "winws2",
+    "BaseName":  "02-fake-ts",
+    "BaseImage":  "02-fake-ts",
+    "Selections":  {
+
+                   },
+    "GameFilter":  false,
+    "IpsetLoaded":  false
+}

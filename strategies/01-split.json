@@ -1,0 +1,8 @@
+﻿{
+    "Title":  "Split",
+    "QuicRepeats":  6,
+    "Tls":  [
+                "--lua-desync multisplit:pos=1,midsld"
+            ],
+    "Origin":  "Our original zapret2"
+}

@@ -1,0 +1,15 @@
+﻿This bundle includes third-party software. Original copyright notices are retained.
+The bundled winws.exe is the existing v72.9 engine, not a new build of zapret2.
+
+zapret / winws: bol-van, MIT. https://github.com/bol-van/zapret
+Windows strategies/distribution: Flowseal, MIT.
+https://github.com/Flowseal/zapret-discord-youtube
+WinDivert: basil00 / ReQrypt, LGPLv3 or GPLv2. Shared libraries are unmodified.
+https://github.com/basil00/WinDivert/tree/v2.2.2
+Cygwin runtime 3.4.10: Cygwin contributors, LGPLv3.
+https://cygwin.com/licensing.html
+https://sourceware.org/git/?p=newlib-cygwin.git;a=tree;hb=cygwin-3_4_10-release
+Full upstream license texts are in this directory; component hashes are in
+manifest.json. The local PowerShell manager is included in source form in app.
+
+No warranty of availability on every network. No external proxy is bundled.

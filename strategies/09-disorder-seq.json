@@ -1,0 +1,9 @@
+﻿{
+    "Title":  "Disorder SEQ",
+    "QuicRepeats":  8,
+    "Tls":  [
+                "--lua-desync fake:blob=fake_default_tls:tcp_seq=-10000:repeats=8",
+                "--lua-desync multidisorder:pos=1,midsld"
+            ],
+    "Origin":  "Our Lua variant for CDN"
+}

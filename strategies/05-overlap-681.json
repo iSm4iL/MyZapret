@@ -1,0 +1,8 @@
+﻿{
+    "Title":  "Overlap 681",
+    "QuicRepeats":  6,
+    "Tls":  [
+                "--lua-desync multisplit:pos=1:seqovl=681:seqovl_pattern=fake_default_tls"
+            ],
+    "Origin":  "GANWO general: multisplit/seqovl=681, adapted to Lua"
+}

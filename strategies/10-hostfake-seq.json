@@ -1,0 +1,8 @@
+﻿{
+    "Title":  "Host fake SEQ",
+    "QuicRepeats":  8,
+    "Tls":  [
+                "--lua-desync hostfakesplit:host=www.google.com:tcp_seq=-10000"
+            ],
+    "Origin":  "Our Lua variant for CDN"
+}

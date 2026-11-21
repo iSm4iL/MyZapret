@@ -1,0 +1,8 @@
+﻿{
+    "Title":  "Host fake TS",
+    "QuicRepeats":  11,
+    "Tls":  [
+                "--lua-desync hostfakesplit:host=www.google.com:tcp_ts=-1000"
+            ],
+    "Origin":  "GANWO ALT13 hostfakesplit idea, adapted to Lua"
+}

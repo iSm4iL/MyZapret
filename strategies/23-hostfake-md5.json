@@ -1,0 +1,8 @@
+{
+  "Title": "23-hostfake-md5",
+  "Tls": [
+    "--lua-desync hostfakesplit:host=www.google.com:midhost=midsld:tcp_md5"
+  ],
+  "Origin": "Targeted YouTube TLS candidates; unverified until live probe",
+  "QuicRepeats": 8
+}

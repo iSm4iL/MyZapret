@@ -1,0 +1,9 @@
+﻿{
+    "Title":  "Fake + split SEQ",
+    "QuicRepeats":  6,
+    "Tls":  [
+                "--lua-desync fake:blob=fake_default_tls:tcp_seq=-10000:repeats=6",
+                "--lua-desync fakedsplit:pos=1:tcp_seq=-10000"
+            ],
+    "Origin":  "Our original zapret2"
+}

@@ -1,0 +1,6 @@
+apresolve.spotify.com
+spclient.wg.spotify.com
+login5.spotify.com
+scdn.co
+spotifycdn.com
+spotify.com

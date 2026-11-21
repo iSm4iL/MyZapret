@@ -1,0 +1,9 @@
+{
+  "Title": "20-fake-ttl4",
+  "Tls": [
+    "--lua-desync fake:blob=fake_default_tls:ip_ttl=4:repeats=8",
+    "--lua-desync multisplit:pos=1,midsld"
+  ],
+  "Origin": "Targeted YouTube TLS candidates; unverified until live probe",
+  "QuicRepeats": 8
+}
